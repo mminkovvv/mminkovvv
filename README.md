@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mladen 
-- 👀 I’m interested in coding, sports, and video games.
+- 👀 I’m interested in coding, sports, crypto and video games.
 - 🌱 I’m currently learning React
 - 📫 How to reach me mladenminkov7777@gmail.com
 - 😄 Pronouns: suc/cess
