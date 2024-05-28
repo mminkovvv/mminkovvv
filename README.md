@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Mladen**
 - 👀 I’m interested in coding, sports, crypto and video games.
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Node.js**
 - 📫 How to reach me mladenminkov7777@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
