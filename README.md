@@ -1,6 +1,7 @@
 - 👋 Hi, I’m **Mladen**
 - 👀 I’m interested in coding, AI, CyberSecurty, sports and crypto.
-- 🌱 I’m currently learning **React** and **Node.js**
+- 🐍 I’m currently learning **Python** and **Exploring AI & LLMs**
+-🔎 Learning **RAG** and **Embeddings**
 - 📫 How to reach me mladenminkov7777@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
